@@ -1,1 +1,1 @@
-print('Masha')
+print('Masha'),hjtfc,ytrfytejrwefewGEtjytf;iuhopi\
